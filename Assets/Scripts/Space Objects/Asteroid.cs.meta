@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 907f3585a79a743f1ab6ad6e9f0ae899
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - ExplosionPrefab: {fileID: 400004, guid: a6d58f54ce5934781962a4f887e834f3, type: 2}
+  - ExplosionSound: {fileID: 8300000, guid: 8f5563aa21cfe4af88502765394450b9, type: 3}
+  - SmallerAsteroidPrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
